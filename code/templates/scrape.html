@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scrape Matches</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            margin: 10px 0;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #333;
+            color: white;
+        }
+
+        tr:nth-child(even) {background-color: #f2f2f2;}
+        tr:hover {background-color: #ddd;}
+    </style>
+</head>
+<body>
+    {% include 'navbar.html' %}
+
+    <h2>Scrape Matches</h2>
+
+    <button onclick="scrapeMatches()">Scrape Matches</button>
+    <button onclick="downloadJson()">Izvozi kot JSON</button>
+    <button onclick="downloadXml()">Izvozi kot XML</button>
+
+    <table id="scrapeResults">
+        <thead>
+            <tr>
+                <th>Home Team</th>
+                <th>Away Team</th>
+                <th>Date/Time</th>
+                <th>Result</th>
+                <th>Competition Type</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+<script>
+var scrapedData = [];
+
+function scrapeMatches() {
+    fetch('/scrape-matches')
+        .then(response => response.json())
+        .then(data => {
+            scrapedData = data;
+            const table = document.getElementById('scrapeResults').getElementsByTagName('tbody')[0];
+            table.innerHTML = ''; // Čiščenje prejšnjih rezultatov
+            data.forEach(match => {
+                let row = table.insertRow();
+                row.innerHTML = `<td>${match.home_team}</td><td>${match.away_team}</td><td>${match.datetime}</td><td>${match.result}</td><td>${match.competition_type}</td>`;
+            });
+        })
+        .catch(error => console.error('Error:', error));
+}
+
+function downloadJson() {
+    var dataObj = { "tekme": scrapedData }; // Ustvarite objekt z enim korenskim elementom
+    var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dataObj));
+    var downloadAnchorNode = document.createElement('a');
+    downloadAnchorNode.setAttribute("href", dataStr);
+    downloadAnchorNode.setAttribute("download", "nzs_tekme.json");
+    document.body.appendChild(downloadAnchorNode);
+    downloadAnchorNode.click();
+    downloadAnchorNode.remove();
+}
+
+function downloadXml() {
+    var xmlStr = convertJsonToXml(scrapedData);
+    var dataStr = "data:text/xml;charset=utf-8," + encodeURIComponent(xmlStr);
+    var downloadAnchorNode = document.createElement('a');
+    downloadAnchorNode.setAttribute("href", dataStr);
+    downloadAnchorNode.setAttribute("download", "nzs_tekme.xml");
+    document.body.appendChild(downloadAnchorNode);
+    downloadAnchorNode.click();
+    downloadAnchorNode.remove();
+}
+
+function convertJsonToXml(json) {
+    var xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tekme>\n';
+    json.forEach(function(tekma) {
+        xml += '  <tekma>\n';
+        for (var prop in tekma) {
+            xml += '    <' + prop + '>' + tekma[prop] + '</' + prop + '>\n';
+        }
+        xml += '  </tekma>\n';
+    });
+    xml += '</tekme>';
+    return xml;
+}
+</script>
+
+</body>
+</html>

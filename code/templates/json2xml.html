@@ -1,0 +1,48 @@
+<!-- templates/json2xml.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload XML</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding-top: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        form {
+            margin-top: 20px;
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        input[type="file"] {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+{% include 'navbar.html' %}
+
+<div class="container">
+    <h2>Upload JSON to Convert to XML</h2>
+
+    <form action="/json2xml" method="post" enctype="multipart/form-data" class="shadow">
+        <div class="form-group">
+            <input type="file" name="file" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Convert</button>
+    </form>
+</div>
+
+</body>
+</html>

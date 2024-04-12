@@ -1,0 +1,2132 @@
+{
+    "tekme": [
+        {
+            "away_team": "Kazahstan",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Ponedeljek, 20.november 2023",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Petek, 17.november 2023",
+            "home_team": "Danska",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Torek, 17.oktober 2023",
+            "home_team": "Severna Irska",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Finska",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Sobota, 14.oktober 2023",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Nedelja, 10.september 2023",
+            "home_team": "San Marino",
+            "result": "0 vs. 4"
+        },
+        {
+            "away_team": "Severna Irska",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "\u010cetrtek, 7.september 2023",
+            "home_team": "Slovenija",
+            "result": "4 vs. 2"
+        },
+        {
+            "away_team": "Danska",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Ponedeljek, 19.junij 2023",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Petek, 16.junij 2023",
+            "home_team": "Finska",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "San Marino",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "Nedelja, 26.marec 2023",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2024",
+            "datetime": "\u010cetrtek, 23.marec 2023",
+            "home_team": "Kazahstan",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "\u010crna Gora",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Nedelja, 20.november 2022",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 17.november 2022",
+            "home_team": "Romunija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "Torek, 27.september 2022",
+            "home_team": "\u0160vedska",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "Sobota, 24.september 2022",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Srbija",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "Nedelja, 12.junij 2022",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "\u010cetrtek, 9.junij 2022",
+            "home_team": "Norve\u0161ka",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "Nedelja, 5.junij 2022",
+            "home_team": "Srbija",
+            "result": "4 vs. 1"
+        },
+        {
+            "away_team": "\u0160vedska",
+            "competition_type": "Uefa liga narodov 2022, liga B",
+            "datetime": "\u010cetrtek, 2.junij 2022",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 29.marec 2022",
+            "home_team": "Katar",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 26.marec 2022",
+            "home_team": "Hrva\u0161ka",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Ciper",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Nedelja, 14.november 2021",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "\u010cetrtek, 11.november 2021",
+            "home_team": "Slova\u0161ka",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Rusija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Ponedeljek, 11.oktober 2021",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Petek, 8.oktober 2021",
+            "home_team": "Malta",
+            "result": "0 vs. 4"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Torek, 7.september 2021",
+            "home_team": "Hrva\u0161ka",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Malta",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Sobota, 4.september 2021",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slova\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Sreda, 1.september 2021",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Gibraltar",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 4.junij 2021",
+            "home_team": "Slovenija",
+            "result": "6 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 1.junij 2021",
+            "home_team": "Makedonija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Torek, 30.marec 2021",
+            "home_team": "Ciper",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Sobota, 27.marec 2021",
+            "home_team": "Rusija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2022",
+            "datetime": "Sreda, 24.marec 2021",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "Sreda, 18.november 2020",
+            "home_team": "Gr\u010dija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Kosovo",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "Nedelja, 15.november 2020",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Azerbajd\u017ean",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 11.november 2020",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "Sreda, 14.oktober 2020",
+            "home_team": "Moldavija",
+            "result": "0 vs. 4"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "Nedelja, 11.oktober 2020",
+            "home_team": "Kosovo",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "San Marino",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 7.oktober 2020",
+            "home_team": "Slovenija",
+            "result": "4 vs. 0"
+        },
+        {
+            "away_team": "Moldavija",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "Nedelja, 6.september 2020",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Gr\u010dija",
+            "competition_type": "UEFA Liga narodov 2021",
+            "datetime": "\u010cetrtek, 3.september 2020",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Torek, 19.november 2019",
+            "home_team": "Poljska",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Latvija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Sobota, 16.november 2019",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Avstrija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Nedelja, 13.oktober 2019",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "\u010cetrtek, 10.oktober 2019",
+            "home_team": "Makedonija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Izrael",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Ponedeljek, 9.september 2019",
+            "home_team": "Slovenija",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Poljska",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Petek, 6.september 2019",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Ponedeljek, 10.junij 2019",
+            "home_team": "Latvija",
+            "result": "0 vs. 5"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Petek, 7.junij 2019",
+            "home_team": "Avstrija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Makedonija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "Nedelja, 24.marec 2019",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2020",
+            "datetime": "\u010cetrtek, 21.marec 2019",
+            "home_team": "Izrael",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "Ponedeljek, 19.november 2018",
+            "home_team": "Bolgarija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "Petek, 16.november 2018",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Ciper",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "Torek, 16.oktober 2018",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "Sobota, 13.oktober 2018",
+            "home_team": "Norve\u0161ka",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "Nedelja, 9.september 2018",
+            "home_team": "Ciper",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Bolgarija",
+            "competition_type": "UEFA Liga narodov 2018",
+            "datetime": "\u010cetrtek, 6.september 2018",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 2.junij 2018",
+            "home_team": "\u010crna Gora",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Belorusija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 27.marec 2018",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 23.marec 2018",
+            "home_team": "Avstrija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "\u0160kotska",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Nedelja, 8.oktober 2017",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "\u010cetrtek, 5.oktober 2017",
+            "home_team": "Anglija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Litva",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Ponedeljek, 4.september 2017",
+            "home_team": "Slovenija",
+            "result": "4 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Petek, 1.september 2017",
+            "home_team": "Slova\u0161ka",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Malta",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Sobota, 10.junij 2017",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Nedelja, 26.marec 2017",
+            "home_team": "\u0160kotska",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 14.november 2016",
+            "home_team": "Poljska",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Petek, 11.november 2016",
+            "home_team": "Malta",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Anglija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Torek, 11.oktober 2016",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slova\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Sobota, 8.oktober 2016",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2018",
+            "datetime": "Nedelja, 4.september 2016",
+            "home_team": "Litva",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Tur\u010dija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Nedelja, 5.junij 2016",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 30.maj 2016",
+            "home_team": "\u0160vedska",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 28.marec 2016",
+            "home_team": "Severna Irska",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Makedonija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 23.marec 2016",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Ukrajina",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Torek, 17.november 2015",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Sobota, 14.november 2015",
+            "home_team": "Ukrajina",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Ponedeljek, 12.oktober 2015",
+            "home_team": "San Marino",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Litva",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Petek, 9.oktober 2015",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Estonija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Torek, 8.september 2015",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Sobota, 5.september 2015",
+            "home_team": "\u0160vica",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Anglija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Nedelja, 14.junij 2015",
+            "home_team": "Slovenija",
+            "result": "2 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 31.marec 2015",
+            "home_team": "Katar",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "San Marino",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Petek, 27.marec 2015",
+            "home_team": "Slovenija",
+            "result": "6 vs. 0"
+        },
+        {
+            "away_team": "Kolumbija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 18.november 2014",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Sobota, 15.november 2014",
+            "home_team": "Anglija",
+            "result": "3 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Nedelja, 12.oktober 2014",
+            "home_team": "Litva",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "\u0160vica",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "\u010cetrtek, 9.oktober 2014",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za Evropsko prvenstvo 2016",
+            "datetime": "Ponedeljek, 8.september 2014",
+            "home_team": "Estonija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 7.junij 2014",
+            "home_team": "Argentina",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 5.junij 2014",
+            "home_team": "Urugvaj",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 5.marec 2014",
+            "home_team": "Al\u017eirija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Kanada",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 19.november 2013",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Torek, 15.oktober 2013",
+            "home_team": "\u0160vica",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 11.oktober 2013",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Torek, 10.september 2013",
+            "home_team": "Ciper",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Albanija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 6.september 2013",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 14.avgust 2013",
+            "home_team": "Finska",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 7.junij 2013",
+            "home_team": "Islandija",
+            "result": "2 vs. 4"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 31.maj 2013",
+            "home_team": "Tur\u010dija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Islandija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 22.marec 2013",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Bosna in Hercegovina",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 6.februar 2013",
+            "home_team": "Slovenija",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 14.november 2012",
+            "home_team": "Makedonija",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Torek, 16.oktober 2012",
+            "home_team": "Albanija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Ciper",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 12.oktober 2012",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Torek, 11.september 2012",
+            "home_team": "Norve\u0161ka",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "\u0160vica",
+            "competition_type": "Kvalifikacije za SP 2014",
+            "datetime": "Petek, 7.september 2012",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Romunija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 15.avgust 2012",
+            "home_team": "Slovenija",
+            "result": "4 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 26.maj 2012",
+            "home_team": "Gr\u010dija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "\u0160kotska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 29.februar 2012",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "ZDA",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 15.november 2011",
+            "home_team": "Slovenija",
+            "result": "2 vs. 3"
+        },
+        {
+            "away_team": "Srbija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Torek, 11.oktober 2011",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Torek, 6.september 2011",
+            "home_team": "Italija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Estonija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Petek, 2.september 2011",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Belgija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 10.avgust 2011",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Petek, 3.junij 2011",
+            "home_team": "Ferski otoki",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Torek, 29.marec 2011",
+            "home_team": "Severna Irska",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Italija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Petek, 25.marec 2011",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 9.februar 2011",
+            "home_team": "Albanija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Gruzija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 17.november 2010",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Torek, 12.oktober 2010",
+            "home_team": "Estonija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Ferski otoki",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Petek, 8.oktober 2010",
+            "home_team": "Slovenija",
+            "result": "5 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Torek, 7.september 2010",
+            "home_team": "Srbija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Severna Irska",
+            "competition_type": "Kvalifikacije za evropsko prvenstvo 2012",
+            "datetime": "Petek, 3.september 2010",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Avstralija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 11.avgust 2010",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Anglija",
+            "competition_type": "Svetovno prvenstvo 2010",
+            "datetime": "Sreda, 23.junij 2010",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "ZDA",
+            "competition_type": "Svetovno prvenstvo 2010",
+            "datetime": "Petek, 18.junij 2010",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Svetovno prvenstvo 2010",
+            "datetime": "Nedelja, 13.junij 2010",
+            "home_team": "Al\u017eirija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Nova Zelandija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 4.junij 2010",
+            "home_team": "Slovenija",
+            "result": "3 vs. 1"
+        },
+        {
+            "away_team": "Katar",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 3.marec 2010",
+            "home_team": "Slovenija",
+            "result": "4 vs. 1"
+        },
+        {
+            "away_team": "Rusija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 18.november 2009",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sobota, 14.november 2009",
+            "home_team": "Rusija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 14.oktober 2009",
+            "home_team": "San Marino",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sobota, 10.oktober 2009",
+            "home_team": "Slova\u0161ka",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Poljska",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 9.september 2009",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 5.september 2009",
+            "home_team": "Anglija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "San Marino",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 12.avgust 2009",
+            "home_team": "Slovenija",
+            "result": "5 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 1.april 2009",
+            "home_team": "Severna Irska",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "\u010ce\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sobota, 28.marec 2009",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 11.februar 2009",
+            "home_team": "Belgija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Bosna in Hercegovina",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 19.november 2008",
+            "home_team": "Slovenija",
+            "result": "3 vs. 4"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 15.oktober 2008",
+            "home_team": "\u010ce\u0161ka",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Severna Irska",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sobota, 11.oktober 2008",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slova\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sreda, 10.september 2008",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2010",
+            "datetime": "Sobota, 6.september 2008",
+            "home_team": "Poljska",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 20.avgust 2008",
+            "home_team": "Slovenija",
+            "result": "2 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 26.maj 2008",
+            "home_team": "\u0160vedska",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 26.marec 2008",
+            "home_team": "Mad\u017earska",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Danska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 6.februar 2008",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Bolgarija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 21.november 2007",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 17.oktober 2007",
+            "home_team": "Nizozemska",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Albanija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sobota, 13.oktober 2007",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Belorusija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 12.september 2007",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sobota, 8.september 2007",
+            "home_team": "Luksemburg",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 22.avgust 2007",
+            "home_team": "\u010crna Gora",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 6.junij 2007",
+            "home_team": "Romunija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Romunija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sobota, 2.junij 2007",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Nizozemska",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 28.marec 2007",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sobota, 24.marec 2007",
+            "home_team": "Albanija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Estonija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 7.februar 2007",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 11.oktober 2006",
+            "home_team": "Belorusija",
+            "result": "4 vs. 2"
+        },
+        {
+            "away_team": "Luksemburg",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sobota, 7.oktober 2006",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za UEFA Euro 2008",
+            "datetime": "Sreda, 6.september 2006",
+            "home_team": "Bolgarija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Izrael",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 15.avgust 2006",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Nedelja, 4.junij 2006",
+            "home_team": "Slonoko\u0161\u010dena obala",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Trinidad & Tobago",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 31.maj 2006",
+            "home_team": "Slovenija",
+            "result": "3 vs. 1"
+        },
+        {
+            "away_team": "Romunija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 1.marec 2006",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 28.februar 2006",
+            "home_team": "Ciper",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "\u0160kotska",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sreda, 12.oktober 2005",
+            "home_team": "Slovenija",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sobota, 8.oktober 2005",
+            "home_team": "Italija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sreda, 7.september 2005",
+            "home_team": "Moldavija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sobota, 3.september 2005",
+            "home_team": "Slovenija",
+            "result": "2 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 17.avgust 2005",
+            "home_team": "Wales",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sobota, 4.junij 2005",
+            "home_team": "Belorusija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Belorusija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sreda, 30.marec 2005",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Nem\u010dija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 26.marec 2005",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "\u010ce\u0161ka",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 9.februar 2005",
+            "home_team": "Slovenija",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 17.november 2004",
+            "home_team": "Slova\u0161ka",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sreda, 13.oktober 2004",
+            "home_team": "Norve\u0161ka",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Italija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sobota, 9.oktober 2004",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sreda, 8.september 2004",
+            "home_team": "\u0160kotska",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Moldavija",
+            "competition_type": "Kvalifikacije za SP 2006",
+            "datetime": "Sobota, 4.september 2004",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Srbija in \u010crna Gora",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 18.avgust 2004",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 28.april 2004",
+            "home_team": "\u0160vica",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Latvija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 31.marec 2004",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Poljska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 18.februar 2004",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sreda, 19.november 2003",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 15.november 2003",
+            "home_team": "Hrva\u0161ka",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 11.oktober 2003",
+            "home_team": "Ciper",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Francija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sreda, 10.september 2003",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Izrael",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 6.september 2003",
+            "home_team": "Slovenija",
+            "result": "3 vs. 1"
+        },
+        {
+            "away_team": "Mad\u017earska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 20.avgust 2003",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 7.junij 2003",
+            "home_team": "Izrael",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sreda, 30.april 2003",
+            "home_team": "Malta",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Ciper",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sreda, 2.april 2003",
+            "home_team": "Slovenija",
+            "result": "4 vs. 1"
+        },
+        {
+            "away_team": "\u0160vica",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 12.februar 2003",
+            "home_team": "Slovenija",
+            "result": "1 vs. 5"
+        },
+        {
+            "away_team": "Rusija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 23.januar 2003",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 21.januar 2003",
+            "home_team": "Portugalska",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 12.oktober 2002",
+            "home_team": "Francija",
+            "result": "5 vs. 0"
+        },
+        {
+            "away_team": "Malta",
+            "competition_type": "Kvalifikacije za EP 2004",
+            "datetime": "Sobota, 7.september 2002",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 21.avgust 2002",
+            "home_team": "Italija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Paragvaj",
+            "competition_type": "Svetovno prvenstvo 2002",
+            "datetime": "Sreda, 12.junij 2002",
+            "home_team": "Slovenija",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Svetovno prvenstvo 2002",
+            "datetime": "Sobota, 8.junij 2002",
+            "home_team": "Ju\u017ena Afrika",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Svetovno prvenstvo 2002",
+            "datetime": "Nedelja, 2.junij 2002",
+            "home_team": "\u0160panija",
+            "result": "3 vs. 1"
+        },
+        {
+            "away_team": "Gana",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 17.maj 2002",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Tunizija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 17.april 2002",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 27.marec 2002",
+            "home_team": "Hrva\u0161ka",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Kitajska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 15.februar 2002",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Honduras",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 12.februar 2002",
+            "home_team": "Slovenija",
+            "result": "1 vs. 5"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sreda, 14.november 2001",
+            "home_team": "Romunija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Romunija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 10.november 2001",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Ferski otoki",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 6.oktober 2001",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sreda, 5.september 2001",
+            "home_team": "Jugoslavija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Rusija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 1.september 2001",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Romunija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 15.avgust 2001",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sreda, 6.junij 2001",
+            "home_team": "\u0160vica",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Luksemburg",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 2.junij 2001",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 26.april 2001",
+            "home_team": "Danska",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Jugoslavija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sreda, 28.marec 2001",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 24.marec 2001",
+            "home_team": "Rusija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Urugvaj",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 28.februar 2001",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "\u0160vica",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sreda, 11.oktober 2000",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Sobota, 7.oktober 2000",
+            "home_team": "Luksemburg",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 2002 - A",
+            "datetime": "Nedelja, 3.september 2000",
+            "home_team": "Ferski otoki",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 16.avgust 2000",
+            "home_team": "\u010ce\u0161ka",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "Evropsko prvenstvo 2000",
+            "datetime": "Sreda, 21.junij 2000",
+            "home_team": "Slovenija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "\u0160panija",
+            "competition_type": "Evropsko prvenstvo 2000",
+            "datetime": "Nedelja, 18.junij 2000",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Jugoslavija",
+            "competition_type": "Evropsko prvenstvo 2000",
+            "datetime": "Torek, 13.junij 2000",
+            "home_team": "Slovenija",
+            "result": "3 vs. 3"
+        },
+        {
+            "away_team": "Savdska Arabija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 3.junij 2000",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 26.april 2000",
+            "home_team": "Francija",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 23.februar 2000",
+            "home_team": "Oman",
+            "result": "0 vs. 4"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 19.februar 2000",
+            "home_team": "ZAE",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sreda, 17.november 1999",
+            "home_team": "Ukrajina",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Ukrajina",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 13.november 1999",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Gr\u010dija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 9.oktober 1999",
+            "home_team": "Slovenija",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sreda, 8.september 1999",
+            "home_team": "Norve\u0161ka",
+            "result": "4 vs. 0"
+        },
+        {
+            "away_team": "Gruzija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 4.september 1999",
+            "home_team": "Slovenija",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Albanija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sreda, 18.avgust 1999",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sreda, 9.junij 1999",
+            "home_team": "Albanija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 5.junij 1999",
+            "home_team": "Latvija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Finska",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 28.april 1999",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 27.marec 1999",
+            "home_team": "Gruzija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 8.februar 1999",
+            "home_team": "Oman",
+            "result": "0 vs. 7"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 6.februar 1999",
+            "home_team": "\u0160vica",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Latvija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sreda, 14.oktober 1998",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Norve\u0161ka",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Sobota, 10.oktober 1998",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za EP 2000",
+            "datetime": "Nedelja, 6.september 1998",
+            "home_team": "Gr\u010dija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 19.avgust 1998",
+            "home_team": "Mad\u017earska",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "\u010ce\u0161ka",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 22.april 1998",
+            "home_team": "Slovenija",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 25.marec 1998",
+            "home_team": "Poljska",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Ponedeljek, 9.februar 1998",
+            "home_team": "Ciper",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 6.februar 1998",
+            "home_team": "Slova\u0161ka",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 5.februar 1998",
+            "home_team": "Islandija",
+            "result": "2 vs. 3"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sobota, 11.oktober 1997",
+            "home_team": "Slovenija",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sreda, 10.september 1997",
+            "home_team": "Bosna in Hercegovina",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Gr\u010dija",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sobota, 6.september 1997",
+            "home_team": "Slovenija",
+            "result": "0 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sreda, 30.april 1997",
+            "home_team": "Danska",
+            "result": "4 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sreda, 2.april 1997",
+            "home_team": "Hrva\u0161ka",
+            "result": "3 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 18.marec 1997",
+            "home_team": "Avstrija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "Bosna in Hercegovina",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Nedelja, 10.november 1996",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 9.oktober 1996",
+            "home_team": "Slovenija",
+            "result": "4 vs. 2"
+        },
+        {
+            "away_team": "Danska",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Nedelja, 1.september 1996",
+            "home_team": "Slovenija",
+            "result": "0 vs. 2"
+        },
+        {
+            "away_team": "ZAE",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 21.maj 1996",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacije za SP 98 - A",
+            "datetime": "Sreda, 24.april 1996",
+            "home_team": "Gr\u010dija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 27.marec 1996",
+            "home_team": "Poljska",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Rusija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Nedelja, 11.februar 1996",
+            "home_team": "Slovenija",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Petek, 9.februar 1996",
+            "home_team": "Malta",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Islandija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 7.februar 1996",
+            "home_team": "Slovenija",
+            "result": "7 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 6.december 1995",
+            "home_team": "Mehika",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 2.december 1995",
+            "home_team": "Mehika",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 29.november 1995",
+            "home_team": "Mehika",
+            "result": "5 vs. 2"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 15.november 1995",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Ukrajina",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 11.oktober 1995",
+            "home_team": "Slovenija",
+            "result": "3 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 6.september 1995",
+            "home_team": "Italija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Nedelja, 11.junij 1995",
+            "home_team": "Estonija",
+            "result": "1 vs. 3"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 7.junij 1995",
+            "home_team": "Litva",
+            "result": "2 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 26.april 1995",
+            "home_team": "Hrva\u0161ka",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Estonija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 29.marec 1995",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Koper",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Nedelja, 12.februar 1995",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "\u017delezni\u010dar Oscar",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 11.februar 1995",
+            "home_team": "Slovenija",
+            "result": "1 vs. 4"
+        },
+        {
+            "away_team": "Izola",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 8.februar 1995",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Litva",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 16.november 1994",
+            "home_team": "Slovenija",
+            "result": "1 vs. 2"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 12.oktober 1994",
+            "home_team": "Ukrajina",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Italija",
+            "competition_type": "Kvalifikacija za  EP 96 - A",
+            "datetime": "Sreda, 7.september 1994",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 1.junij 1994",
+            "home_team": "Romunija",
+            "result": "0 vs. 0"
+        },
+        {
+            "away_team": "Ciper",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 27.april 1994",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 6.april 1994",
+            "home_team": "Mad\u017earska",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 23.marec 1994",
+            "home_team": "Makedonija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 12.februar 1994",
+            "home_team": "Malta",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Tunizija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 10.februar 1994",
+            "home_team": "Slovenija",
+            "result": "2 vs. 2"
+        },
+        {
+            "away_team": "Gruzija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 8.februar 1994",
+            "home_team": "Slovenija",
+            "result": "1 vs. 0"
+        },
+        {
+            "away_team": "Izola",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 5.februar 1994",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 16.november 1993",
+            "home_team": "Slova\u0161ka",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Makedonija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 13.oktober 1993",
+            "home_team": "Slovenija",
+            "result": "1 vs. 4"
+        },
+        {
+            "away_team": "Reprezentanca novinarjev",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 8.september 1993",
+            "home_team": "Slovenija",
+            "result": "1 vs. 6"
+        },
+        {
+            "away_team": "Estonija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 7.april 1993",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 7.november 1992",
+            "home_team": "Ciper",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 3.junij 1992",
+            "home_team": "Estonija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Reprezentanca novinarjev",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 13.maj 1992",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 23.oktober 1991",
+            "home_team": "ZTE",
+            "result": "0 vs. 4"
+        },
+        {
+            "away_team": "Hrva\u0161ka",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 19.junij 1991",
+            "home_team": "Slovenija",
+            "result": "0 vs. 1"
+        },
+        {
+            "away_team": "Zasavje",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Torek, 11.junij 1991",
+            "home_team": "Slovenija",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Udinese",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sreda, 13.marec 1991",
+            "home_team": "Slovenija",
+            "result": "1 vs. 1"
+        },
+        {
+            "away_team": "Slovenija",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "\u010cetrtek, 21.februar 1991",
+            "home_team": "Udinese",
+            "result": "3 vs. 0"
+        },
+        {
+            "away_team": "Bosna in Hercegovina",
+            "competition_type": "Prijateljska tekma",
+            "datetime": "Sobota, 8.december 1990",
+            "home_team": "Slovenija",
+            "result": "2 vs. 0"
+        }
+    ]
+}

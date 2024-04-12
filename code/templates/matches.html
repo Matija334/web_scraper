@@ -1,0 +1,38 @@
+v<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matches</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h2>Match List</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Home Team</th>
+            <th>Away Team</th>
+            <th>Date/Time</th>
+            <th>Result</th>
+            <th>Competition Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for match in matches %}
+        <tr>
+            <td>{{ match.id }}</td>
+            <td>{{ match.home_team }}</td>
+            <td>{{ match.away_team }}</td>
+            <td>{{ match.datetime }}</td>
+            <td>{{ match.result }}</td>
+            <td>{{ match.competition_type }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+</body>
+</html>
