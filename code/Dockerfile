@@ -8,6 +8,8 @@ COPY routes /app/routes
 COPY static /app/static
 COPY templates /app/templates
 
+RUN apt-get update && apt-get install -y python3-pip
+
 RUN pip install --no-cache-dir -r requirements.txt
 
 ENV FLASK_APP=app.py
